@@ -1,0 +1,5 @@
+= Espilo
+
+Malmova programo kiun mi uzis en kelkaj skriptoj. Far Sciuro (Duncan Thomson)
+
+Supozeble mi tiame trovis ĝin je menciata FTP-ejo.
